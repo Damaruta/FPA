@@ -26,8 +26,8 @@ public class P2_2 {
         System.out.print("Masukkan tinggi badan (m) : ");//22523164
         float tb = sc.nextFloat();//22523164
 //22523164
-        sc.nextLine(); // mengambil baris kosong sehingga tidak terjadi masalah ketika ingin memasukkan
-                       // input alamat setelahnya
+        sc.nextLine(); // 22523164 mengambil baris kosong sehingga tidak terjadi masalah 22523164 ketika ingin memasukkan
+                       // input alamat 22523164 setelahnya
 //22523164
         // Meminta user memasukkan alamat
         System.out.print("Masukkan alamat           : ");//22523164
