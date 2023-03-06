@@ -2,7 +2,7 @@ package P3;
 
 import java.util.Scanner;
 
-public class P3_5 {
+public class MenuSwitch {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
 
